@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: black; */
+}
+h3{
+ 
+position: relative;
+width: 149px;
+height: 36px;
+left: 85px;
+top: 68px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+} 
+
+#home-score{
+    /* home-score */
+
+
+position: relative;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+
+/* home-points-text */
+
+
+position: relative;
+width: 117px;
+height: 120px;
+left: 355px;
+top: 132px;
+background-color: black;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+/* text-align: center; */
+
+color: #F94F6D;
+ } 
+
+ #guest-score{
+    /* home-score */
+
+
+/* home-score */
+
+
+position: relative;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+
+
+
+/* home-points-text */
+
+
+position: relative;
+width: 117px;
+height: 120px;
+left: 355px;
+top: 132px;
+background-color: black;
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+/* text-align: center; */
+
+color: #F94F6D;
+ } 
+
+ button{
+position: relative;
+width: 155px;
+height: 45px;
+left: 82px;
+top: 271px;
+ }
